@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Olá+mundo!👋🌎;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72424&random=false&width=435&lines=Hello+Wolrd+%F0%9F%91%8B%F0%9F%8F%BE;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 <div>
   <img align="center" alt="Me" height="300" width="300" src="https://github.com/DjavanGabriel123/DjavanGabriel123/assets/142459468/c0d5b1af-f307-40dc-a081-068c2bd19b35">
   <a href="https://github.com/DjavanGabriel123" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
