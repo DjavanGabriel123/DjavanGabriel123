@@ -13,7 +13,7 @@
 
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DjavanGabriel123&show_icons=true&theme=transparent" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElaniZanlucas&layout=donut&theme=transparent&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjavanGabriel123&layout=donut&theme=transparent&card_width=320" />
 </div>
 
 <div style="display: inline_block"><br>
