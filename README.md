@@ -5,7 +5,7 @@
 </div>
 
 ##
-- 💻 I currently work at Uva Energia Solar as QA and Developer
+- 💻 I'm a full stack programmer, but I like the front end more👀
 - 🎓 Currently finishing the last year of high school
 - 📖 I have had other experiences in the web developer job market
 - 🌱 I'm improving my skills in REACT and TypesCript
