@@ -6,10 +6,11 @@
 
 ##
 - 💻 I'm a full stack programmer, but I like the front end more👀
-- 🎓 Currently finishing the last year of high school
+- 🎓 I'm studying Information Systems - UFMS FACOM
 - 📖 I have had other experiences in the web developer job market
 - 🌱 I'm improving my skills in REACT and TypesCript
-- 💀 I had good experience with HTML, SAAS, Tailwind, Laravel, Docker, Ubuntu
+- 💀 I had a good experience with JS, SAAS, Tailwind, Laravel, Docker, Ubuntu
+- 🦆 I'm part of the best junior programming company in Brazil, MEGA JUNIOR
 
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DjavanGabriel123&show_icons=true&theme=transparent" />
