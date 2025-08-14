@@ -60,33 +60,33 @@
 
 ## 🚀 Featured Projects
 <p align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DjavanGabriel123/projeto-pizzaria">🍕 Pizza Shop Project</a></td>
-      <td>Web system for order management</td>
-      <td>React, JavaScript, Tailwind</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DjavanGabriel123/filmes-react">🎬 Movies React</a></td>
-      <td>Movie listing and search using API</td>
-      <td>React, JavaScript</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DjavanGabriel123/Barbearia-Page">💈 Barber Shop Page</a></td>
-      <td>Modern landing page for a barber shop</td>
-      <td>HTML, CSS, Sass</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DjavanGabriel123/DothNews-Dashboard">📊 DothNews Dashboard</a></td>
-      <td>Admin panel with dynamic data</td>
-      <td>HTML, CSS, JavaScript</td>
-    </tr>
-  </table>
+  <table style="border-collapse: collapse; border: none;">
+  <tr>
+    <th style="border: none;">Project</th>
+    <th style="border: none;">Description</th>
+    <th style="border: none;">Technologies</th>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://github.com/DjavanGabriel123/projeto-pizzaria">🍕 Pizza Shop Project</a></td>
+    <td style="border: none;">Web system for order management</td>
+    <td style="border: none;">React, JavaScript, Tailwind</td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://github.com/DjavanGabriel123/filmes-react">🎬 Movies React</a></td>
+    <td style="border: none;">Movie listing and search using API</td>
+    <td style="border: none;">React, JavaScript</td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://github.com/DjavanGabriel123/Barbearia-Page">💈 Barber Shop Page</a></td>
+    <td style="border: none;">Modern landing page for a barber shop</td>
+    <td style="border: none;">HTML, CSS, Sass</td>
+  </tr>
+  <tr>
+    <td style="border: none;"><a href="https://github.com/DjavanGabriel123/DothNews-Dashboard">📊 DothNews Dashboard</a></td>
+    <td style="border: none;">Admin panel with dynamic data</td>
+    <td style="border: none;">HTML, CSS, JavaScript</td>
+  </tr>
+</table>
 </p>
 
 ---
