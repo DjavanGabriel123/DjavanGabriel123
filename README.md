@@ -28,7 +28,7 @@
 🎓 Studying <strong>Information Systems - UFMS FACOM</strong><br>
 🚀 Experience with <strong>JavaScript, SAAS, Tailwind, Laravel, Docker, Ubuntu</strong><br>
 📚 Improving my skills in <strong>React</strong> and <strong>JavaScript</strong><br>
-🏆 Member of <strong>MEGA JUNIOR</strong>, one of the best junior enterprises in Brazil
+🏆 Member of MEGA JUNIOR, the best junior company in Brazil
 </p>
 
 ---
