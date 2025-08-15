@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/seu-perfil">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="djavangml@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/DjavanGabriel123">
